@@ -1,0 +1,7 @@
+{
+  "tabWidth": 8,
+  "prettier.tabWidth": 8,
+  "typescript.preferences.experimentalDecorators": "on",
+  "typescript.suggest.autoImports": true,
+  "folder-color.pathColors": []
+}

@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "noEmit": true // don't generate JS, just type-check tests
+  },
+  "include": ["tests"]
+}
